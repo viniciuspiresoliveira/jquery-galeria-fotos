@@ -7,17 +7,17 @@
 
 header {
     background-color: #5f27cd;
-    padding: 16px 0;
+    padding: 10px 0;
     color: #fff;
-    display: flex;
     border-bottom: 16px solid #341f97;
+    text-align: center;
     justify-content: center;
     text-transform: uppercase;
     font-style: italic;
 }
 
 header button {
-    margin-left: 16px;
+    margin-top: 5px;
 }
 
 form {
@@ -32,7 +32,7 @@ form h2 {
 }
 
 input, button {
-    padding: 8px;
+    padding: 5px;
 }
 
 button {
